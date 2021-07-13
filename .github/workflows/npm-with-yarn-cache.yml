@@ -26,4 +26,4 @@ jobs:
         run: |
           npm install --no-save --force
           ls
-          npm audit --production
+          # npm audit --production
