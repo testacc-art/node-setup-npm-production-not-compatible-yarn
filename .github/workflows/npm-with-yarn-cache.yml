@@ -24,6 +24,6 @@ jobs:
 
       - name: Build
         run: |
-          npm install --no-save
+          npm install
           ls
           # npm audit --production
